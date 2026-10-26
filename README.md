@@ -1,4 +1,3 @@
-# DAA-Laboratory
 
 <div align="center">
 
